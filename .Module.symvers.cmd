@@ -1,0 +1,1 @@
+cmd_/home/abhishek/abhi/workspace/ldd/custom_drivers/001hello_world/Module.symvers :=  sed 's/ko$$/o/'  /home/abhishek/abhi/workspace/ldd/custom_drivers/001hello_world/modules.order | scripts/mod/modpost -m      -o /home/abhishek/abhi/workspace/ldd/custom_drivers/001hello_world/Module.symvers -e -i Module.symvers -T - 

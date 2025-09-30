@@ -1,0 +1,1 @@
+cmd_/home/abhishek/abhi/workspace/ldd/custom_drivers/001hello_world/modules.order := {   echo /home/abhishek/abhi/workspace/ldd/custom_drivers/001hello_world/main.ko; :; } > /home/abhishek/abhi/workspace/ldd/custom_drivers/001hello_world/modules.order
